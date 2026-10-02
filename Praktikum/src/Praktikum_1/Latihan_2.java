@@ -1,0 +1,18 @@
+package Praktikum_1;
+
+import java.util.Scanner;
+
+public class Latihan_2 {
+	public static void main(String[] args) {
+		System.out.println("Program Menghitung Harga Total Tanah");
+		System.out.println("Harga per m^2 = Rp5.000.000");
+		
+		Luas_tanah luas_tanah = new Luas_tanah();
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Masukkan luas tanah: ");
+		luas_tanah.luas = scanner.nextInt();
+		
+		System.out.println("Harga Total: " + luas_tanah.getHargaTotal());		
+	}
+}
