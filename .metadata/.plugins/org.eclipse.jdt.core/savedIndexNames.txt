@@ -2,5 +2,6 @@ INDEX VERSION 1.134+/home/xquisite/Documents/Kuliah/Tugas Lab/Lab. PBO/.metadata
 2644919913.index
 1453440763.index
 3787199849.index
-927482515.index
+567031368.index
+3339667264.index
 1865797976.index
